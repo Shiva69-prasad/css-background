@@ -1,0 +1,9 @@
+body{
+
+background-color: blue;
+
+  background-image: url(snare.jpeg),url(tom1.jpeg);
+  background-repeat: no-repeat/repeat(x,y); 
+  background-attachment:fixed,scroll,local;
+   background-position: right/top/bottom/left/(x,y)/10px;  
+}
