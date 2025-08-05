@@ -7,3 +7,7 @@ background-color: blue;
   background-attachment:fixed,scroll,local;
    background-position: right/top/bottom/left/(x,y)/10px;  
 }
+
+ h1{
+    border: 10px solid,dashed,dotted,inset,groove,double,none,outset,hidden,ridge gold;
+} 
